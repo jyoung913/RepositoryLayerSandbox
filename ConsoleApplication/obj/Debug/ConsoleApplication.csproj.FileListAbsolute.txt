@@ -1,0 +1,16 @@
+S:\Temp\ADO\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+S:\Temp\ADO\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+S:\Temp\ADO\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+S:\Temp\ADO\ConsoleApplication\bin\Debug\DataLayer.dll
+S:\Temp\ADO\ConsoleApplication\bin\Debug\DataLayer.pdb
+S:\Temp\ADO\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+S:\Temp\ADO\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+S:\Temp\ADO\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\ConsoleApplication\bin\Debug\DataLayer.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\ConsoleApplication\bin\Debug\DataLayer.pdb
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

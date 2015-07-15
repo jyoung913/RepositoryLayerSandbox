@@ -1,0 +1,92 @@
+S:\Temp\ADO\DataLayer\bin\Debug\DataLayer.dll
+S:\Temp\ADO\DataLayer\bin\Debug\DataLayer.pdb
+S:\Temp\ADO\DataLayer\bin\Debug\WebApplication.dll
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Mvc.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Http.dll
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Optimization.dll
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.Owin.dll
+S:\Temp\ADO\DataLayer\bin\Debug\Owin.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Net.Http.Formatting.dll
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.dll
+S:\Temp\ADO\DataLayer\bin\Debug\EntityFramework.dll
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Http.Owin.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Http.WebHost.dll
+S:\Temp\ADO\DataLayer\bin\Debug\Newtonsoft.Json.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Razor.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.WebPages.Razor.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.WebPages.dll
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+S:\Temp\ADO\DataLayer\bin\Debug\WebApplication.pdb
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Mvc.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Http.xml
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Optimization.xml
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.Owin.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Net.Http.Formatting.xml
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.xml
+S:\Temp\ADO\DataLayer\bin\Debug\EntityFramework.xml
+S:\Temp\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Http.Owin.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Http.WebHost.xml
+S:\Temp\ADO\DataLayer\bin\Debug\Newtonsoft.Json.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.Razor.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.WebPages.Razor.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.WebPages.xml
+S:\Temp\ADO\DataLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+S:\Temp\ADO\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+S:\Temp\ADO\DataLayer\obj\Debug\DataLayer.dll
+S:\Temp\ADO\DataLayer\obj\Debug\DataLayer.pdb
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\DataLayer.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\DataLayer.pdb
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\WebApplication.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Mvc.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Http.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Optimization.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.Owin.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Owin.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Net.Http.Formatting.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\EntityFramework.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Http.Owin.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Http.WebHost.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Newtonsoft.Json.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Razor.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.WebPages.Razor.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.WebPages.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\WebApplication.pdb
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Mvc.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Http.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Optimization.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.Owin.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Net.Http.Formatting.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\EntityFramework.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Http.Owin.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Http.WebHost.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\Newtonsoft.Json.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.Razor.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.WebPages.Razor.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.WebPages.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\obj\Debug\DataLayer.dll
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\obj\Debug\DataLayer.pdb
+Z:\Users\andrea.cremese\Dropbox (Personal)\training\ADO\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
